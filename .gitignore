@@ -1,4 +1,6 @@
 dirty 
 archive/
 sketches/
-interactive-brokers-api-master/
+interactive-brokers-api-master/.
+output/
+bert_embedings.zip
